@@ -55,3 +55,7 @@ ai-docs/
 # Temp dev files
 claude
 claude_desktop.flow
+
+# Windows reserved name
+nul
+**/nul
